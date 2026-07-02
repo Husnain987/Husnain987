@@ -10,7 +10,6 @@ UC Berkeley Statistics student building real projects with Python, pandas, and m
 **[Flight Delay Analytics](https://github.com/Husnain987/flight-delay-analytics)** — End-to-end pipeline analyzing 7M+ US domestic flights (2024 BTS On-Time data) from Python ETL through cloud warehousing to an interactive dashboard.
 - Cleaned and validated 7M+ rows with pandas, loaded to Google BigQuery
 - Live [Tableau Public dashboard](https://public.tableau.com/app/profile/husnain.abbas7784/viz/USFlightDelays2024/Dashboard1) surfacing seasonal trends, worst carriers/routes, and airport-level delay patterns
-- [![US Flight Delays 2024 dashboard](assets/dashboard.png)](https://public.tableau.com/app/profile/husnain.abbas7784/viz/USFlightDelays2024/Dashboard1)
 
 **[BYOW World Generator](https://github.com/Husnain987/Byow-world-generator)** — Procedural 2D world generator in Java using seeded randomness, room/hallway generation, and interactive gameplay.
 
